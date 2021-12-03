@@ -1,0 +1,45 @@
+body{
+    margin: 0 auto;
+}
+
+header {
+    height: 100px;
+    background-color: #4ea0ff;
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+    background-size: 20%;
+}
+
+.logo{
+    width: 10%;
+    padding-top: 50px; 
+    padding-left: 25%; 
+}
+
+main{
+    margin: 0 auto;
+    width: 50%;
+    
+}
+
+.grigio{
+color: grey;
+padding-bottom: 30px;
+}
+
+.sottotitolo{
+    font-size: 9px;
+}
+
+#azzurro{
+    color: rgb(60, 219, 240);
+}
+
+h1{
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.immagini_tim{
+    
+}
