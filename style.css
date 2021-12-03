@@ -1,5 +1,6 @@
 body{
     margin: 0 auto;
+    
 }
 
 header {
@@ -13,18 +14,18 @@ header {
 .logo{
     width: 10%;
     padding-top: 50px; 
-    padding-left: 25%; 
+    padding-left: 15%; 
 }
 
 main{
     margin: 0 auto;
-    width: 50%;
-    
+    padding-left: 15%;
+    padding-right: 15%;    
 }
 
 .grigio{
-color: grey;
-padding-bottom: 30px;
+    color: grey;
+    padding-bottom: 10px;
 }
 
 .sottotitolo{
@@ -36,10 +37,11 @@ padding-bottom: 30px;
 }
 
 h1{
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     text-align: justify;
 }
 
-.immagini_tim{
-    
+.paragrafi p{
+    margin: 0;
+    font-size: 11px;
 }
