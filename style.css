@@ -45,3 +45,41 @@ h1{
     margin: 0;
     font-size: 11px;
 }
+
+.Lorem{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.lista ul{
+    padding: 0px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.sottolineatura{
+    background-color: yellow;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+thead{
+    background-color: rgb(64, 173, 224);
+    width: 50%;
+    padding-right: 80px;;
+    
+}
+
+thead tr th{
+    color: #ffffff;
+}
+
+tr th{
+    margin: 25px;
+}
