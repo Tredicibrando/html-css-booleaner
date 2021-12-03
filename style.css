@@ -12,7 +12,7 @@ header {
 }
 
 .logo{
-    width: 10%;
+    width: 200px;
     padding-top: 50px; 
     padding-left: 15%; 
 }
@@ -47,8 +47,8 @@ h1{
 }
 
 .Lorem{
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     text-align: justify;
 }
 
@@ -71,15 +71,48 @@ table{
 
 thead{
     background-color: rgb(64, 173, 224);
-    width: 50%;
-    padding-right: 80px;;
-    
 }
 
 thead tr th{
     color: #ffffff;
+    padding-right: 50px;
 }
 
-tr th{
-    margin: 25px;
+.inline{
+    white-space: nowrap;
+}
+
+.azzurrino{
+    background-color:rgb(180, 231, 238)
+}
+
+footer {
+    color: grey;
+    font-size: 22px;
+}
+
+.img_1{
+    height: 200px;
+    width: 250px;
+    background-image: url(img/monitor.jpg);
+    font-size: 22px;
+    font-weight: 800;
+    color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.img_2{
+    height: 200px;
+    width: 250px;
+    background-image: url(img/graph.jpg);
+    font-size: 22px;
+    font-weight: 800;
+    color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 50px;
 }
